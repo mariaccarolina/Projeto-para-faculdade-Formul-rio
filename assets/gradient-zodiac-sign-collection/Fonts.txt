@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Teko
+Author: Indian Type Foundry
+Url: https://fonts.google.com/specimen/Teko
